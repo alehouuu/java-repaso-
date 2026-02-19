@@ -7,3 +7,10 @@ public class Main {
         System.out.println("19");
         System.out.println("luna");
 
+        System.out.println("-------------------------------------------------------");
+
+        System.out.println("dos hemanos");
+        System.out.println("Oscar Bohorquez");
+        System.out.println("Angela Reyes");
+
+
